@@ -26,12 +26,12 @@ html, body {
 
 .carousel-caption {
     position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
+    top: 25%;
+    transform: translateY(-25%);
 }
 
 .carousel-caption h1 {
-    font-size: 500%;
+    font-size: 200%;
     text-transform: uppercase;
     text-shadow: 1px 1px 15px #000;
 }
@@ -100,12 +100,12 @@ html, body {
 }
 
 .social a {
-    font-size: 4.5em;
+    font-size: 4.5em
     padding: 3rem;
 }
 
 .fa-facebook {
-    color: #3b5998 !important;
+    color: #3b5998;
 }
 
 .fa-twitter {
